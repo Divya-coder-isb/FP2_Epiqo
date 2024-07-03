@@ -1,5 +1,0 @@
-streamlit==1.0.0
-pandas==1.4.0
-numpy>=1.17.5,<1.21.0
-requests==2.26.0
-pillow==8.4.0
