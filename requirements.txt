@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+tensorflow
+keras
+requests
+xgboost
